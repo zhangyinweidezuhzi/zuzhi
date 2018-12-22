@@ -5,6 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/ssm04/ss04_web/src/main/main.iml" filepath="$PROJECT_DIR$/ssm04/ss04_web/src/main/main.iml" />
       <module fileurl="file://$PROJECT_DIR$/ssm04/ss04_service/src/main/main1.iml" filepath="$PROJECT_DIR$/ssm04/ss04_service/src/main/main1.iml" />
       <module fileurl="file://$PROJECT_DIR$/ssm04/ss04_dao/src/main/main2.iml" filepath="$PROJECT_DIR$/ssm04/ss04_dao/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm04/ss04_dao/ss04_dao.iml" filepath="$PROJECT_DIR$/ssm04/ss04_dao/ss04_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm04/ss04_service/ss04_service.iml" filepath="$PROJECT_DIR$/ssm04/ss04_service/ss04_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm04/ss04_web/ss04_web.iml" filepath="$PROJECT_DIR$/ssm04/ss04_web/ss04_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm04/ssm04.iml" filepath="$PROJECT_DIR$/ssm04/ssm04.iml" />
     </modules>
   </component>
 </project>
